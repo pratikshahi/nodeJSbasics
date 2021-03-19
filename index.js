@@ -6,3 +6,7 @@ var myNewFirstName=nameGenerator.first();       //first() last() defined inside 
 var myNewlastName=nameGenerator.last();
 
 console.log(myNewFirstName+" "+myNewlastName);
+
+var superVillainName=require("supervillains");
+var mySuperVillainName=superVillainName.random();
+console.log(mySuperVillainName);

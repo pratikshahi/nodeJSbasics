@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pratikshahi/nodeJSbasics#readme",
   "dependencies": {
-    "name-generate": "0.0.1"
+    "name-generate": "0.0.1",
+    "supervillains": "^3.0.0"
   }
 }
