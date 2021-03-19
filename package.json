@@ -1,0 +1,22 @@
+{
+  "name": "intro_to_node",
+  "version": "1.0.0",
+  "description": "This is intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikshahi/nodeJSbasics.git"
+  },
+  "author": "Pratik Shahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikshahi/nodeJSbasics/issues"
+  },
+  "homepage": "https://github.com/pratikshahi/nodeJSbasics#readme",
+  "dependencies": {
+    "name-generate": "0.0.1"
+  }
+}
